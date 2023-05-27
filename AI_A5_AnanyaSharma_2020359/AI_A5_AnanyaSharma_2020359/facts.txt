@@ -1,0 +1,10 @@
+name_fact(anan).
+branch_fact(csd).
+sem_fact(8).
+gpa_fact(8).
+future(1).
+elec_done(yes).
+repeat(no).
+btp(yes).
+cred(20).
+interest_final(1).
